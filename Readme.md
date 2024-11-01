@@ -14,7 +14,7 @@
 Naviguer dans le dossier contenant le `Dockerfile`, puis exécutez la commande suivante pour construire l'image Docker :
 
 ```bash
-docker build -t weleassane/car-api-image:v1.0.0 .
+docker build -t weleassane/car-api-image:v2.0.0 .
 ```
 #### Remarque:
 J'ai gardé Python:3.9 au lieu d'utiliser Python:3.9-alpine car si je l'utilise, l'image ne build pas et renvoie des erreurs. A ce qu'il parait, ceci est causé par les requirements du flask.
