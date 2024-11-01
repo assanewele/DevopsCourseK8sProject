@@ -1,5 +1,5 @@
 
-# Projet API Flask avec Kubernetes
+# Projet API Flask et Mysql avec Kubernetes
 
 ## Prérequis
 
